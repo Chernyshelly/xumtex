@@ -1,0 +1,12 @@
+.top-panel {
+border: 10px solid orange;
+background-color: rgba(0,0,200, 0.7);
+text-align: left;
+text-transform: uppercase;
+color: orange;
+text-decoration: none;
+}
+
+h1 {
+font-size: 71px;
+}
