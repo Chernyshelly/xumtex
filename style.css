@@ -1,12 +1,37 @@
 .top-panel {
-border: 10px solid orange;
-background-color: rgba(0,0,200, 0.7);
+border: 10px groove orange;
+background-color: #ffff00;
 text-align: left;
 text-transform: uppercase;
 color: orange;
 text-decoration: none;
 }
 
+.top-panel a {
+text-decoration: none;
+}
 h1 {
 font-size: 71px;
+}
+
+.navig {
+margin: 0;
+padding: 0;
+}
+.navig li {
+border: 5px dashed orange;
+background-color: #ffff00;
+color: orange;
+text-align: left;
+text-transform: uppercase;
+width: 300px;
+list-style-type: none;
+padding: 3px;
+font-size: 30px;
+text-align: center;
+}
+
+.navig li a {
+text-decoration: none;
+color: orange;
 }
