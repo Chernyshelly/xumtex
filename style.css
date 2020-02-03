@@ -35,3 +35,7 @@ text-align: center;
 text-decoration: none;
 color: orange;
 }
+
+main {
+display: flex
+}
