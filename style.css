@@ -17,25 +17,50 @@ font-size: 71px;
 .navig {
 margin: 0;
 padding: 0;
+background-color: #00bfff;
+width: 275px;
 }
-.navig li {
+
+.navig h2 {
+border: 7px groove red;
+padding: 10px;
+margin: 0;
+font-size: 40px;
+}
+
+.navig ul li {
 border: 5px dashed orange;
 background-color: #ffff00;
 color: orange;
 text-align: left;
 text-transform: uppercase;
-width: 300px;
+
 list-style-type: none;
 padding: 3px;
-font-size: 30px;
+font-size: 20px;
 text-align: center;
 }
 
-.navig li a {
+.navig ul li a {
 text-decoration: none;
 color: orange;
 }
 
+.contdiv {
+border: 5px dashed orange;
+margin: 10px;
+background-color: #87cefa;
+}
 main {
-display: flex
+display: flex;
+
+color: orange;
+}
+
+html {
+background-color: rgba(0,0,255, 0.5);
+}
+a {
+text-decoration: none;
+color: orange;
 }
