@@ -14,6 +14,10 @@ h1 {
 font-size: 71px;
 }
 
+.just2{
+	width: 700px;
+}
+
 .just h2{
 border: 7px groove orange;
 padding: 10px;
@@ -27,6 +31,11 @@ text-align: center;
 font-size: 50px;
 margin-left: 30px;
 }
+
+.just p{
+	margin-left: 25px;
+}
+
 .just img{
 border: 7px dashed #ffff00;
 }
@@ -55,6 +64,14 @@ list-style-type: none;
 padding: 3px;
 font-size: 20px;
 text-align: center;
+}
+
+.skills ul li {
+color: orange;
+text-align: left;
+list-style-type: none;
+padding: 3px;
+font-size: 20px;
 }
 
 .navig ul li a {
