@@ -7,6 +7,25 @@ color: orange;
 text-decoration: none;
 }
 
+.regtop {
+padding: 10px;
+text-align: center;
+margin: 0px;
+text-color: blue;
+//width: 7000px;
+}
+
+.reg ul li{
+	list-style-type: none;
+	text-align: center;
+}
+.inputclass{
+	
+	padding: 10px 10px; 
+	line-height: 28px;
+	font-size: 24px;
+}
+
 .top-panel a {
 text-decoration: none;
 }
