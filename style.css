@@ -73,9 +73,13 @@ padding: 10px;
 margin: 0;
 font-size: 40px;
 }
-
+li:first-child{
+	border-top: 5px dashed orange;
+}
 .navig ul li {
-border: 5px dashed orange;
+border-bottom: 5px dashed orange;
+border-left: 5px dashed orange;
+border-right: 5px dashed orange;
 background-color: #ffff00;
 color: orange;
 text-align: left;
